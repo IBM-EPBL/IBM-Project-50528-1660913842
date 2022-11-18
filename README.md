@@ -13,4 +13,3 @@ Missing Data,Feature Scaling,Data Visualization,
 Splitting Data into Train and Test,Creating
 datasets with sliding windows)
 Train The Model On IBM(Register For IBM Cloud)
-https://github.com/IBM-EPBL/IBM-Project-50528-1660913842.git
